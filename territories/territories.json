@@ -1,0 +1,185 @@
+[
+  {
+    "territoryAll": 11,
+    "capitains": [
+      "Andrés Cabrera",
+      "Benjamín Gonzáles",
+      "Camilo Russi",
+      "Carlos García",
+      "Didimo Pachecho",
+      "Edison Bernal",
+      "Hugo Ruiz",
+      "Jonathan Forero",
+      "Juan Diego Cabrera",
+      "Juan José Beltran"
+    ],
+    "territories":[
+      {
+        "id": "1", 
+        "territoryName": "Cabrera",
+        "territoryImg": "https://img",
+        "territoryBlocks": 57,
+        "predicate": [1, 2, 3],
+        "historyPredicate": [
+          {
+            "capitain": "Juan Diego Cabrera Ramirez",
+            "blocks": [1, 2],
+            "date": "13-12-2023",
+            "observations": "string"
+          }
+        ]
+      },
+      {
+        "id": "2", 
+        "territoryName": "Chacua",
+        "territoryImg": "https://img",
+        "territoryBlocks": 41,
+        "predicate": [1, 2, 3],
+        "historyPredicate": [
+          {
+            "capitain": "Juan Diego Cabrera Ramirez",
+            "blocks": [1, 2],
+            "date": "13-12-2023",
+            "observations": "string"
+          }
+        ]
+      },
+      {
+        "id": "3", 
+        "territoryName": "Chacua Veredas",
+        "territoryImg": "https://img",
+        "territoryBlocks": 0,
+        "predicate": [1, 2, 3],
+        "historyPredicate": [
+          {
+            "capitain": "Juan Diego Cabrera Ramirez",
+            "blocks": [1, 2],
+            "date": "13-12-2023",
+            "observations": "string"
+          }
+        ]
+      },
+      {
+        "id": "4", 
+        "territoryName": "García",
+        "territoryImg": "https://img",
+        "territoryBlocks": 69,
+        "predicate": [1, 2, 3],
+        "historyPredicate": [
+          {
+            "capitain": "Juan Diego Cabrera Ramirez",
+            "blocks": [1, 2],
+            "date": "13-12-2023",
+            "observations": "string"
+          }
+        ]
+      },
+      {
+        "id": "5", 
+        "territoryName": "Gonzáles",
+        "territoryImg": "https://img",
+        "territoryBlocks": 43,
+        "predicate": [1, 2, 3],
+        "historyPredicate": [
+          {
+            "capitain": "Juan Diego Cabrera Ramirez",
+            "blocks": [1, 2],
+            "date": "13-12-2023",
+            "observations": "string"
+          }
+        ]
+      },
+      {
+        "id": "6", 
+        "territoryName": "Muña - Reserva - Mirador",
+        "territoryImg": "https://img",
+        "territoryBlocks": 90,
+        "predicate": [1, 2, 3],
+        "historyPredicate": [
+          {
+            "capitain": "Juan Diego Cabrera Ramirez",
+            "blocks": [1, 2],
+            "date": "13-12-2023",
+            "observations": "string"
+          }
+        ]
+      },
+      {
+        "id": "7", 
+        "territoryName": "Neruda Garcia",
+        "territoryImg": "https://img",
+        "territoryBlocks": 31,
+        "predicate": [1, 2, 3],
+        "historyPredicate": [
+          {
+            "capitain": "Juan Diego Cabrera Ramirez",
+            "blocks": [1, 2],
+            "date": "13-12-2023",
+            "observations": "string"
+          }
+        ]
+      },
+      {
+        "id": "8", 
+        "territoryName": "Salón del Reino 1",
+        "territoryImg": "https://img",
+        "territoryBlocks": 42,
+        "predicate": [1, 2, 3],
+        "historyPredicate": [
+          {
+            "capitain": "Juan Diego Cabrera Ramirez",
+            "blocks": [1, 2],
+            "date": "13-12-2023",
+            "observations": "string"
+          }
+        ]
+      },
+      {
+        "id": "9", 
+        "territoryName": "Salón del Reino 2",
+        "territoryImg": "https://img",
+        "territoryBlocks": 31,
+        "predicate": [1, 2, 3],
+        "historyPredicate": [
+          {
+            "capitain": "Juan Diego Cabrera Ramirez",
+            "blocks": [1, 2],
+            "date": "13-12-2023",
+            "observations": "string"
+          }
+        ]
+      },
+      {
+        "id": "10", 
+        "territoryName": "San Jose y Montevida",
+        "territoryImg": "https://img",
+        "territoryBlocks": 5,
+        "predicate": [1, 2, 3],
+        "historyPredicate": [
+          {
+            "capitain": "Juan Diego Cabrera Ramirez",
+            "blocks": [1, 2],
+            "date": "13-12-2023",
+            "observations": "string"
+          }
+        ]
+      },
+      {
+        "id": "9", 
+        "territoryName": "Sibaté Veredas",
+        "territoryImg": "https://img",
+        "territoryBlocks": 0,
+        "predicate": [0],
+        "historyPredicate": [
+          {
+            "capitain": "Juan Diego Cabrera Ramirez",
+            "blocks": [0],
+            "date": "13-12-2023",
+            "observations": "string"
+          }
+        ]
+      }
+
+    ]
+  }
+]

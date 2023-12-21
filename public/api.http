@@ -1,0 +1,28 @@
+#### Peticion de territorios
+GET http://localhost:3000/territories
+#### Peticion de historial
+GET http://localhost:3000/territories/57d7ba1c-a2c6-4fb7-9f6d-bfe38e38d78c/history
+
+
+### Crear un nuevo territorio
+POST http://localhost:3000/territories
+Content-Type: application/json
+
+{
+  "territoryName": "Sibaté Veredas",
+  "territoryImg": "https://img",
+  "territoryBlocks": 0,
+  "predicate": [1],
+  "historyPredicate": []
+}
+
+### añadir historial de predicación.
+POST http://localhost:3000/territories/57d7ba1c-a2c6-4fb7-9f6d-bfe38e38d78c/history
+Content-Type: application/json
+
+{
+  "capitain": "Andres Cabrera",
+  "blocks": [3, 4, 5, 6],
+  "date": "13-12-2023",
+  "observations": "Predico todo"
+}
