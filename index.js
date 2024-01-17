@@ -10,10 +10,11 @@ app.disable('x-powered-by')
 
 app.use(express.json())
 app.use(cors())
-app.use(express.static('./public'))
+// app.use(express.static('./public'))
 
 app.get('/', (req, res) => {
-  res.sendFile(`${process.cwd}/public/index.html`)
+  // res.sendFile(`${process.cwd}/public/index.html`)
+  res.send('<h1>Territorios</h1>')
 })
 
 app.get('/territories', (req, res) => {
